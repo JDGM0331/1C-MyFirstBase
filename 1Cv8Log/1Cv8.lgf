@@ -37,4 +37,5 @@ dcd210b3-4dc5-4784-be68-2b262fe80aa3
 {5,d650cfa6-9cc1-47f1-959e-e09d4ea8dada,"Document.Purchases",7},
 {3,"1CV8",4},
 {5,9149481a-8124-4fa9-b7be-542ab5e547be,"InformationRegister.Currencies",8},
-{4,"_$PerformError$_",18}
+{4,"_$PerformError$_",18},
+{4,"_$InfoBase$_.DBConfigUpdateError",19}
